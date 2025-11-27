@@ -1,8 +1,8 @@
-# Walmart Sales Analysis – Data Analytics Case Study
+# Walmart Sales Analysis – 
 
 A portfolio project inspired by a case study by Data & Analytics Educator Mary Knoeferl.
 
-## The dataset is available publicly on Kaggle:[ https://www.kaggle.com/datasets/mikhail1681/walmart-sales?resource=download](https://www.kaggle.com/datasets/mikhail1681/walmart-sales)
+### The dataset is available publicly on Kaggle:[ https://www.kaggle.com/datasets/mikhail1681/walmart-sales?resource=download](https://www.kaggle.com/datasets/mikhail1681/walmart-sales)
 
  ## Project Overview
 
