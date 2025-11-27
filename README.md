@@ -2,6 +2,8 @@
 
 A portfolio project inspired by a case study by Data & Analytics Educator Mary Knoeferl.
 
+## The dataset is available publicly on Kaggle: https://www.kaggle.com/datasets/mikhail1681/walmart-sales?resource=download
+
  ## Project Overview
 
 This project analyzes Walmart Retail Sales to uncover the key factors influencing weekly sales across different stores.
